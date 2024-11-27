@@ -32,11 +32,14 @@ Best model: Multivariable Linear Regression (MLR) with $R^2$ = 0.976 and RMSE = 
 Efficient resource allocation contributed to significant performance improvements in a distributed environment.
 
 ___
-Acknowledgments:<br>
-This readme was written with the help of ChatGPT
 
 ### Instructions
 Set up a Spark and Hadoop distributed cluster.<br>
 Upload the datasets to HDFS.<br>
 Run the Python script for data preprocessing and model training.<br>
 Analyze results via Spark UI and log files.<br>
+
+___
+
+Acknowledgments:<br>
+This readme was written with the help of ChatGPT

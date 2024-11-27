@@ -34,6 +34,8 @@ Efficient resource allocation contributed to significant performance improvement
 ___
 
 ### Instructions
+Download dataset from Kaggle : https://www.kaggle.com/code/sidduboppana/starter-2015-flight-delays-and-45a4bcdc-f/input?select=flights.csv <br>
+run ```Unstruct.py```<br>
 Set up a Spark and Hadoop distributed cluster.<br>
 Upload the datasets to HDFS.<br>
 Run the Python script for data preprocessing and model training.<br>
